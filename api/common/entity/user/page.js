@@ -1,0 +1,11 @@
+module.exports=({
+	list,
+	pageSize,
+	offset,
+	total
+})=>{
+	list,
+	pageSize,
+	offset,
+	total
+}
