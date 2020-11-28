@@ -7,5 +7,6 @@
 <body>
 	<h1>{{title}}</h1>
 	<p>this is{{content}} ,hahaah</p>
+	<div>hahah </div>
 </body>
 </html>
