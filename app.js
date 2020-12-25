@@ -24,8 +24,7 @@ app.use(bodyParser.urlencoded({
 }))
 app.use('*',function(req,res,next){
 	console.log('Request path is :')
-	console.log(colors.red(req.baseUrl))
-
+	console.log(colors.red(req.baseUrl))z
 	next();
 })
 app.use('*',function(req,res,next){
