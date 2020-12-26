@@ -97,7 +97,7 @@ app.route('*').all(function(req,res,next){
 		next();
 	}
 })
-console.log('i changed from 2')
+console.log('i changed from 2 change again')
 //DEBUG
 
 //app.params(['id','page'],function(){})
