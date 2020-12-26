@@ -100,4 +100,5 @@ app.route('*').all(function(req,res,next){
 
 //app.params(['id','page'],function(){})
 //app.params('id',function(){})
+
 //app.get('/user/:id/:page',function(){})
