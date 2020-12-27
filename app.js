@@ -97,7 +97,7 @@ app.route('*').all(function(req,res,next){
 	}
 })
 
-console.log('i changed from 2 change again')
+console.log('file change 1')
 //DEBUG
 
 //app.params(['id','page'],function(){})
