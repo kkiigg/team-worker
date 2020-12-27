@@ -98,6 +98,7 @@ app.route('*').all(function(req,res,next){
 })
 
 console.log('file change 1')
+
 //DEBUG
 
 //app.params(['id','page'],function(){})
