@@ -14,5 +14,6 @@ connection.query(addSql,addSqlParams,function (err, result) {
      console.log('[INSERT ERROR] - ',err.message);
      return;
     }
-         
 });
+
+console.log('file change 2')
